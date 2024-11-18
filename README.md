@@ -5,13 +5,14 @@
 ![Fondo para github](https://github.com/GColina/GColina/assets/121101574/d0e62b10-757a-4611-88a8-2f7f456ff1e7)
 
 
-I am a budding software developer with an interest in Kotlin. I am currently learning the language and I am eager to apply it to real-world projects. I am good at teamwork and I am confident that I can quickly learn Kotlin and become a productive developer. I am looking for opportunities to learn and grow.
+Después de varios años trabajando en servicio al cliente en sectores como telecomunicaciones y hostelería, he decidido dar un cambio. Siempre sentí un interés por el software y el hardware, pero nunca tuve la oportunidad ni la orientación necesaria para explorar ese camino.
 
+Hoy, cada día me motiva la posibilidad de transformar ideas en realidades funcionales a través de Kotlin y Android Studio, aplicando buenas prácticas de desarrollo.
 
-I am constantly learning and improving, and I am always looking for new ways to improve my skills. I am passionate about programming and I am confident that I can do great things with Kotlin.
+Mi primera aplicación, WritePractice, fue creada utilizando la arquitectura MVVM y está diseñada para ayudar a niños que están aprendiendo a escribir. La app muestra letras del abecedario con una fuente de puntitos, permitiendo a los pequeños trazar las letras con el dedo de manera intuitiva y entretenida.
 
+https://github.com/GColina/WritePractice
 
-"Soy un desarrollador de software en ciernes con un interés en Kotlin. Estoy actualmente aprendiendo el lenguaje y estoy ansioso por aplicarlo a proyectos reales. Soy bueno en el trabajo en equipo y estoy seguro de que puedo aprender rápidamente Kotlin y convertirme en un desarrollador productivo. Estoy buscando oportunidades para aprender y crecer".
+Freebies es la app ideal para jugadores que buscan juegos gratuitos. Con juegos sacados de una API, siempre encontrarás algo nuevo para disfrutar. Además, puedes compartir fácilmente los juegos con tus amigos. Este proyecto fue desarrollado con Jetpack Compose, MVVM, Dagger y Navigation Manager.
 
-
-Estoy constantemente aprendiendo y mejorando, y siempre estoy buscando nuevas formas de mejorar mis habilidades. Me apasiona la programación y estoy seguro de que puedo hacer grandes cosas con Kotlin.
+https://github.com/GColina/Freebies
