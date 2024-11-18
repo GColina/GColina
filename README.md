@@ -3,17 +3,17 @@
 ### Gabriel Colina Ramirez
 
 
-## 🚀 Desarrollador Frontend especializado en Android y Kotlin
+## 🚀 Desarrollador Frontend
 
 Después de varios años trabajando en servicio al cliente en telecomunicaciones y hostelería, decidí seguir mi verdadera pasión: **el desarrollo de software**.  
 Mi interés por el mundo del software y hardware siempre estuvo presente, pero no fue hasta hace poco que encontré la oportunidad de dedicarme completamente a este apasionante campo.
 
 Hoy me dedico a **transformar ideas en interfaces funcionales y atractivas**, combinando creatividad con buenas prácticas de desarrollo.  
-Mi especialidad está en **Kotlin**, **Android Studio** y frameworks frontend, pero estoy en constante aprendizaje para crecer en este dinámico campo. 🌐
+Mi especialidad está en **Kotlin**, pero estoy en constante aprendizaje para crecer en este dinámico campo. 🌐
 
 ---
 
-## 🌟 Proyectos destacados
+## 🌟 Proyectos
 
 ### ✍️ [WritePractice](https://github.com/GColina/WritePractice)
 
@@ -39,15 +39,14 @@ Mi especialidad está en **Kotlin**, **Android Studio** y frameworks frontend, p
 ## 👨‍💻 Habilidades Técnicas
 
 - **Lenguajes:** Kotlin, Swift, JavaScript, TypeScript.
-- **Frameworks:** Angular, React, Jetpack Compose.
-- **Frontend:** HTML, CSS, SCSS.
+- **Frameworks:** Angular, React,HTML, CSS.
 - **Herramientas:** Android Studio, Git, Figma, Visual Studio Code.
 
 ---
 
 ## 🌱 Objetivos
 
-Mi enfoque está en el **desarrollo frontend**. Busco seguir perfeccionando mis habilidades en frameworks como Angular y React, y continuar creando interfaces que combinen diseño y funcionalidad.
+Mi enfoque está en el **desarrollo frontend**. Busco seguir perfeccionando mis habilidades en frameworks como Angular , React y Kotlin Multiplatform, y continuar creando interfaces que combinen diseño y funcionalidad.
 
 ---
 
